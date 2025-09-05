@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Environment files
+.env
+.env.local
+
+# Database
+*.db
+
+# Vercel
+.vercel/
